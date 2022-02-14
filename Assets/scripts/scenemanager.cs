@@ -25,7 +25,7 @@ public class scenemanager : MonoBehaviour
             SceneManager.LoadScene("sala3");
         }
     }
-}
+
 
     void start()
 {
