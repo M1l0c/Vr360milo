@@ -20,12 +20,17 @@ public class scenemanager : MonoBehaviour
         {
             SceneManager.LoadScene("sala1");
             }
+        else if (sala == "sala3")
+        {
+            SceneManager.LoadScene("sala3");
         }
-
-    void Start()
-    {
-      
     }
+}
+
+    void start()
+{
+
+}
 
     // Update is called once per frame
     void Update()
